@@ -1,0 +1,4 @@
+To run xPath and xQueries in the db2 sql:
+
+db2 -td@ -f C:\Users\paras\Documents\TheoryOfDatabase\playXPathXquery\customerInfo.sql
+
