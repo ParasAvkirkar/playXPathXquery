@@ -1,1 +1,1 @@
-/customers/customerinfo[addr/city="Toronto"][assistant]/name
+doc("customerinfo.xml")/customers/customerinfo[addr/city="Toronto"][assistant]/name/text()

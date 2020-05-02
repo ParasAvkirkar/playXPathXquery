@@ -1,1 +1,1 @@
-/PurchaseOrders/PurchaseOrder[@Status="Shipped"][item/partid="100-201-01"]/@PoNum
+doc("purchaseorders.xml")/PurchaseOrders/PurchaseOrder[@Status="Shipped"][item/partid="100-201-01"]/@PoNum
